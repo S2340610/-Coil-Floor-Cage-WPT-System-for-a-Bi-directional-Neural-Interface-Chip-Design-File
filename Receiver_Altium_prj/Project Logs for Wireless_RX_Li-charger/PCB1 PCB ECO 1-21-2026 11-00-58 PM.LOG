@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=NetC?_1 Pin=D?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=D?-2
+Change Component Comment : Designator=C? Old Comment=10 New Comment=10nF
+Change Component Comment : Designator=C? Old Comment=VJ0805Y682KXAMT New Comment=4u7
+Change Component Comment : Designator=C? Old Comment=VJ0805Y682KXAMT New Comment=10uF
+Change Component Comment : Designator=C? Old Comment=VJ0805Y682KXAMT New Comment=?nF
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=LED1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Added Component: Designator=C3(CAPC1206(3216)100_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "?¡À10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC1_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D2-2
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U?-4
+Added Net: Name=NetC4_1
+Added Member To Class: ClassName=Sheet2 Member=Component C1 ?nF
+Added Member To Class: ClassName=Sheet2 Member=Component C3 100uF
+Added Member To Class: ClassName=Sheet2 Member=Component C4 10uF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 4u7
+Added Member To Class: ClassName=Sheet2 Member=Component D1 BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component D2 BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component D4 BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 LTST-C170AKT
+Added Member To Class: ClassName=Sheet2 Member=Component U? MCP73831T-4ADI/OT

@@ -1,0 +1,12 @@
+Added Component: Designator=LIR?(1056)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.keyelco.com/product.cfm/product_id/715"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1056?qs=sZfk%252BfAlGe4w00bCJntjFg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net+_1 Pin=LIR?-C1
+Added Pin To Net: NetName=GND Pin=LIR?-C2
+Added Member To Class: ClassName=Sheet2 Member=Component LIR? 1056

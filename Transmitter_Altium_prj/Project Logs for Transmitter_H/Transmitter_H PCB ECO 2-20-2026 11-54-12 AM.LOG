@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Sheet2 Member=C1
+Added Pin To Net: NetName=12V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=Sheet2 Member=Component C? 0.01uF
+Added Member To Class: ClassName=Sheet2 Member=Component C? 10nF

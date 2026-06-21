@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=D?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=D?-2
+Added Component: Designator=D?(FP-LTST-C150AKT-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C150AKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "LED AMBER CLEAR SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Led Orientation"; Value = "Top View"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "6mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C150AKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Standard LEDs - SMD Amber Clear 602nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/ltst-c150akt-lite-on-549804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Emmision Wavelength"; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55буC to +85буC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85буC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55буC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130бу"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "602nm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-2
+Added Pin To Net: NetName=NetC?_1 Pin=D?-2
+Added Member To Class: ClassName=Sheet2 Member=Component C? 10
+Added Member To Class: ClassName=Sheet2 Member=Component C? VJ0805Y682KXAMT
+Added Member To Class: ClassName=Sheet2 Member=Component C? VJ0805Y682KXAMT
+Added Member To Class: ClassName=Sheet2 Member=Component D? BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component D? LTST-C150AKT
+Added Member To Class: ClassName=Sheet2 Member=Component D? BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component D? BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component U? MCP73831T-4ADI/OT
+Added Member To Class: ClassName=Sheet2 Member=Component U? MCP1702T-3302E/MB

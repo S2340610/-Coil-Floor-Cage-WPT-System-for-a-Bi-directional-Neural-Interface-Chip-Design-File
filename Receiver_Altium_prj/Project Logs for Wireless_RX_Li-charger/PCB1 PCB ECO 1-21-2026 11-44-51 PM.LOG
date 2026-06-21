@@ -1,0 +1,10 @@
+Change Component Comment : Designator=R1 Old Comment=220  New Comment=220
+Change Component Comment : Designator=R3 Old Comment=220  New Comment=220
+Change Component Designator: OldDesignator=+ NewDesignator=Battery +
+Change Component Designator: OldDesignator=- NewDesignator=Battery -
+Change Component Designator: OldDesignator=LED1 NewDesignator=Power
+Change Component Designator: OldDesignator=LED2 NewDesignator=Charging
+Change Component Designator: OldDesignator=LED3 NewDesignator=Done
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetCharging_1
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetDone_2
+Added Member To Class: ClassName=Sheet2 Member=Component U1 MCP1702T-3302E/MB

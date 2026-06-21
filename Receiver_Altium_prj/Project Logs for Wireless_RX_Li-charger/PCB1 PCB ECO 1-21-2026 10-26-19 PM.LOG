@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=D?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=D?-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=NetC?_1 Pin=U1-3
+Removed Member From Class: ClassName=Sheet2 Member=U1
+Change Component Footprint: Designator=U? Old Footprint=NDP0003B_N New Footprint=FP-C04-029-MFG
+Change Component Comment : Designator=U? Old Comment=LM2936DT-5.0 New Comment=MCP1702T-3302E/MB
+Change Component Comment : Designator=C? Old Comment=VJ0805Y682KXAMT New Comment=10
+Change Managed Component Library Link : Designator=U? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F2A0D1EB-5373-4151-B87A-995062B287ED New ItemGUID=74CA0D3C-88EE-4B45-810A-55BA6C839E98 Old RevisionGUID=443600A7-59F8-43B9-94D9-34947E569FC2 New RevisionGUID=BF713CDE-DD6F-43BB-8E38-8BD1F9F80536
+Change component parameters: Designator = "U?" ("U?"); Footprint = "NDP0003B_N"; UniqueID = "\AJGCYRIC" ("\AJGCYRIC")
+Change component parameters (AddParameter): Name = "Accuracy"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-89"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dropout Voltage"; Value = "525mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Bias Current"; Value = "2uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "13.2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "250mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "13.2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Input Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "250mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage Accuracy"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "2.29mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=D?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Member To Class: ClassName=Sheet2 Member=Component C? 10
+Added Member To Class: ClassName=Sheet2 Member=Component C? VJ0805Y682KXAMT
+Added Member To Class: ClassName=Sheet2 Member=Component C? VJ0805Y682KXAMT
+Added Member To Class: ClassName=Sheet2 Member=Component D? BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component D? BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component D? BZY55B7V5 RBG
+Added Member To Class: ClassName=Sheet2 Member=Component U? MCP1702T-3302E/MB

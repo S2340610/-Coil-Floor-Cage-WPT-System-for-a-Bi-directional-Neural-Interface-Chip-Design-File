@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=C2-1
+Removed Pin From Net: NetName=NetC2_2 Pin=C2-2
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Member From Class: ClassName=Sheet2 Member=C2
+Removed Member From Class: ClassName=Sheet2 Member=R?
+Change Component Footprint: Designator=C? Old Footprint=CAPR51-254-508X318X736 New Footprint=CAPC2013X145X48ML20T23
+Change Component Footprint: Designator=C? Old Footprint=CAPR51-254-508X318X736 New Footprint=CAPC2013X145X48ML20T23
+Change Component Footprint: Designator=C? Old Footprint=CAPR51-254-508X318X736 New Footprint=CAPC2013X145X48ML20T23
+Change Component Comment : Designator=C? Old Comment=10nF New Comment=VJ0805Y682KXAMT
+Change Component Comment : Designator=C? Old Comment=10uF New Comment=VJ0805Y682KXAMT
+Change Component Comment : Designator=C? Old Comment=100uF New Comment=VJ0805Y682KXAMT
+Change Managed Component Library Link : Designator=C? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID=9A0664D4-C523-4CAE-8D36-758F3F68D179 Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=95E20BE2-5AC7-46C6-B25A-AC18270E8E32
+Change Managed Component Library Link : Designator=C? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID=9A0664D4-C523-4CAE-8D36-758F3F68D179 Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=95E20BE2-5AC7-46C6-B25A-AC18270E8E32
+Change Managed Component Library Link : Designator=C? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID=9A0664D4-C523-4CAE-8D36-758F3F68D179 Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=95E20BE2-5AC7-46C6-B25A-AC18270E8E32
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\UJLYWPCT" ("\UJLYWPCT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0805Y682KXAMT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\JOQBVNFO" ("\JOQBVNFO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0805Y682KXAMT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\IXTVJNBZ" ("\IXTVJNBZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0805Y682KXAMT"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2013X145X48ML20T23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805Y682KXAMT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC2_2 Pin=C?-2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC?_2
+Add Net: Net with name "NetC?_1" already exists
+Added Member To Class: ClassName=Sheet2 Member=Component C? VJ0805Y682KXAMT
+Added Member To Class: ClassName=Sheet2 Member=Component C? VJ0805Y682KXAMT
+Added Member To Class: ClassName=Sheet2 Member=Component C? VJ0805Y682KXAMT
+Added Member To Class: ClassName=Sheet2 Member=Component U? MCP73831T-4ADI/OT

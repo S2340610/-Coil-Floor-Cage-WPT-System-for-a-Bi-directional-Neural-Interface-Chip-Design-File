@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C3 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C4 Old Comment=4u7 New Comment=4n7
+Change Net Name : Old Net Name=NetC1_1 New Net Name=AC+
+Change Net Name : Old Net Name=NetC1_2 New Net Name=AC-
+Change Net Name : Old Net Name=NetC2_2 New Net Name=5v
